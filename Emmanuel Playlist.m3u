@@ -1,0 +1,265 @@
+﻿#EXTM3U
+
+
+#EXTINF:-1, [COLOR RED] -----------------ZUNIGA LIST---------------[/COLOR]
+
+
+
+#EXTINF:-1, [COLOR yellow] ----------NEWS---------------[/COLOR]
+
+
+
+
+
+
+#EXTINF:-1, BOX NATION  
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDE2IDU6MzI6NDEgQU0maGFzaF92YWx1ZT1OSFowcEdDRGxiU3VhOEMrbzVOa3ZnPT0mdmFsaWRtaW51dGVzPTIw/boxnation.stream  
+#EXTINF:-1, BOX NATION                                       
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDE2IDU6MzU6MjcgQU0maGFzaF92YWx1ZT1ydG8rRnZHYkY0U0lVck9XUW1GSldRPT0mdmFsaWRtaW51dGVzPTIw/boxnation.stream  
+#EXTINF:-1, BOX NATION -http
+http://play.uktvnow.net:1935/live/boxnation.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDE2IDU6MzM6NDUgQU0maGFzaF92YWx1ZT1JNStPb1p0SjBmZDdhVXUrVkdKejF3PT0mdmFsaWRtaW51dGVzPTIw  
+#EXTINF:-1, BOX NATION 
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDE2IDU6MzU6MjcgQU0maGFzaF92YWx1ZT1ydG8rRnZHYkY0U0lVck9XUW1GSldRPT0mdmFsaWRtaW51dGVzPTIw/boxnation.stream  
+
+
+
+#EXTINF:-1, ABC
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1, KTVU
+http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
+#EXTINF:-1, CBS NEWS
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947
+#EXTINF:-1, Fox News
+http://vaughnlive.tv/favicon.ico 
+#EXTINF:-1, Weather Channel
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1, CNN
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8?b?b*t$
+#EXTINF:-1, test
+rtmp://198.255.17.42:1935/live App=live?ZmtuZI19Bv6KqiMrCEdKHRNarScfg6rA Playpath=live_lmshows_ij  swfUrl=http://vaughnlive.tv/4395291417/swf/jwplayer.flash.swf flashver=WIN\2021,0,0,216 timeout=15 live=true swfVfy=1  pageUrl=http://vaughnlive.tv/embed/video/lmshows_ij?viewers=true&watermark=left&autoplay=true  
+
+
+
+#EXTINF:-1, [COLOR yellow] ----------Entertainment---------------[/COLOR]
+
+
+
+
+#EXTINF:-1, Comedy Central
+http://iliketot.dyndns.tv/tot/web/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
+#EXTINF:-1, IJ
+rtmp://198.255.17.42:1935/live App=live?ZmtuZI19Bv6KqiMrCEdKHRNarScfg6rA Playpath=live_lmshows_ij  swfUrl=http://vaughnlive.tv/4395291417/swf/VaughnSoftPlayer.swf live=true pageUrl=http://vaughnlive.tv/embed/video/lmshows_ij
+
+#EXTINF:-1, Global BC
+https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8
+#EXTINF:-1, Criminal Investigation- CI
+http://stream-12.vty.dailymotion.com/25/dc/1/50b7998806361d3ecc0138cc/5653105394a6f61397ac89a9/live.isml/events/live-audio=64000-video=681000.m3u8
+#EXTINF:-1, COPS 24/7
+rtmpe://192.99.21.184/pprive/ Playpath=cp2412 swfUrl=http://www.tgun.tv/embeds2/jwplayer.flash.swf pageUrl=http://www.tgun.tv/embeds2/index2.html?cp2412
+#EXTINF:-1, Comedy Central
+http://iliketot.dyndns.tv/tot/web/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
+#EXTINF:-1, National Geographic
+http://stream-09.vty.dailymotion.com/20/dc/1/50b7998806361d3ecc0138cc/51adfa5706361d3a8700014d/live.isml/events/live-audio%3D64000-video%3D894000.m3u8
+#EXTINF:-1, Seinfeld- (24/7)
+rtmp://185.63.252.174:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDE2IDk6MDM6NDEgQU0maGFzaF92YWx1ZT1QeTRFVWlzQ0t4ZDUyL2tZRmxzOXd3PT0mdmFsaWRtaW51dGVzPTEw/seinfield_u7gkakpu swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN\2021,0,0,216 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=seinfield&autoplay=true&strech=exactfit
+#EXTINF:-1, The Big Bang Theory- 24/7
+rtmp://185.63.252.174:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDE2IDk6MDY6MjUgQU0maGFzaF92YWx1ZT1JV25CWm0xMmZaQlE1QUZPQTJsSnB3PT0mdmFsaWRtaW51dGVzPTEw/bigbang_2zpwmtjm swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN\2021,0,0,216 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=bigbang&autoplay=true&strech=exactfit
+#EXTINF:-1, ABC
+rtmp://185.63.252.221:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDE2IDk6MzE6MzEgQU0maGFzaF92YWx1ZT10cTVwQnA1citQRW5MUU9QT0FoLzdBPT0mdmFsaWRtaW51dGVzPTU=/rGCi7bg0Qxvs8q7Sl13l pageUrl=http://zerocast.tv/embed.php?a=1&id=&width=640&height=480&autostart=true&strech= live=1 timeout=30
+#EXTINF:-1, CBS
+rtmp://185.63.252.221:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDE2IDk6MzQ6MTcgQU0maGFzaF92YWx1ZT11ek5QT1M1UHlvSWJXdUJ3VlpuTER3PT0mdmFsaWRtaW51dGVzPTU=/Ger61uLQ4fedzvjRjrB7 pageUrl=http://zerocast.tv/embed.php?a=338&id=&width=640&height=480&autostart=true&strech= live=1 timeout=30
+#EXTINF:-1, The CW
+rtmp://185.63.252.131:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDE2IDk6MzU6MjIgQU0maGFzaF92YWx1ZT1UWnJRTkdPRDRNSE5nZjlOeXNLSmJBPT0mdmFsaWRtaW51dGVzPTU=/cw pageUrl=http://zerocast.tv/embed.php?a=8&id=&width=640&height=480&autostart=true&strech= live=1 timeout=30
+#EXTINF:-1, FOX
+rtmp://185.63.252.178:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDE2IDk6Mzg6MDkgQU0maGFzaF92YWx1ZT1wSXRabElWRE04VHE3R203TllualRBPT0mdmFsaWRtaW51dGVzPTU=/9pxGCtP3aEnJYgoBFFH8 pageUrl=http://zerocast.tv/embed.php?a=305&id=&width=640&height=480&autostart=true&strech= live=1 timeout=30
+
+
+
+#EXTINF:-1, [COLOR yellow] ----------KIDS---------------[/COLOR]
+
+
+#EXTINF:-1, Tom & Jerry 24/7
+rtmp://208.53.180.218/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+#EXTINF:0, Cartoon Network
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+#EXTINF:-1, Cartoon Remix
+http://iphone-streaming.ustream.tv/ustreamVideo/19036542/streams/live/playlist.m3u8
+#EXTINF:-1, Flinstones
+rtmp://185.63.252.174:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDE2IDk6MDc6NTAgQU0maGFzaF92YWx1ZT1DSnVsMlVNaVlNTkNtMjVqUitaeWNnPT0mdmFsaWRtaW51dGVzPTEw/flintstones_25uuxtnp swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN\2021,0,0,216 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=flintstones&autoplay=true&strech=exactfit
+#EXTINF:-1, The Simpsons
+rtmp://185.63.252.221:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDE2IDk6MDk6MjQgQU0maGFzaF92YWx1ZT1xYXRTQkpBWk9SK0x1ci9uMG1CN2pBPT0mdmFsaWRtaW51dGVzPTEw/simpsons_7h63n2hw swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN\2021,0,0,216 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=simpsons&autoplay=true&strech=exactfit
+#EXTINF:-1, The Simpsons
+http://127.0.0.1:9000/veetle/aHR0cDovLzM4LjEwMi4xNjMuMjAzOjgwL2Zsdi81MmRhZGE2MWJkZjEzL3Rlc3RhdDEyMw==
+#EXTINF:-1, Classic Cartoons
+http://127.0.0.1:9000/veetle/aHR0cDovLzM4Ljg4LjIyNC41NDo4MC9mbHYvNTZhMzAxMzczNTVmNi90ZXN0YXQxMjM=
+#EXTINF:-1, test Disney XD
+http://cp.dmbshare.net:8000/live/cotton/cotton/2815.ts
+#EXTINF:-1, Disney XD
+http://37.187.24.177:80/65/65/1425.ch
+#EXTINF:-1, test HBO HD 1
+http://globeiptv.ddns.net:88/Nam/Restream/1398.gi
+#EXTINF:-1, test Sponge Bob
+http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
+#EXTINF:-1, test Nickelodeon
+http://5.135.139.145:80/Nickelodeon/mono.m3u8
+#EXTINF:-1, test trutv
+http://5.135.139.145:80/trutv/mono.m3u8
+#EXTINF:-1,Disney Channel HD
+http://37.187.24.177:80/65/65/1483.ch
+#EXTINF:-1,DISNEY JUNIOR
+http://37.187.24.177:80/65/65/1482.ch
+#EXTINF:-1,TR: CARTONNETWORK
+http://37.187.24.177:80/65/65/1492.ch
+#EXTINF:-1,TR: Cartoon Network
+http://37.187.24.177:80/65/65/491.ch
+#EXTINF:-1,beinHD_Sports_HD1 
+http://37.187.24.177:80/65/65/699.ch 
+
+
+#EXTINF:-1, [COLOR yellow] ----------KIDS-SPANISH---------------[/COLOR]
+
+
+
+#EXTINF:-1, BOOMERANG-SPANSIH
+http://latino-webtv.ml/live/324_03.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
+#EXTINF:-1, NICK-SPANISH
+http://latino-webtv.ml/live/315_03.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE",  NICK JR
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8?
+#EXTINF:-1, CARTOON NETWORK-SPANISH
+http://latino-webtv.ml/live/320_03.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
+#EXTINF:-1, CARTOON NETWORK-SPANISH
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
+#EXTINF:-1, DISNEY XD-SPANISH
+http://latino-webtv.ml/live/322_03.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
+#EXTINF:-1, DISNEY XD-SPANISH
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
+#EXTINF:-1, DISNEY-SPANISH
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8?
+
+
+
+
+#EXTINF:-1, [COLOR yellow] ----------SPORTS---------------[/COLOR]
+
+#EXTINF:-1, NFL NOW 
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+#EXTINF:-1, NFL NOW 
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+#EXTINF:-1, NBC Sports Network
+http://54.177.79.231/server/play/nbcsnxctg/master.m3u8
+#EXTINF:-1, FOX SPORTS 1
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1, Fox Sports (Spanish)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
+#EXTINF:-1, PX (Spanish)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:-1, Garage TV (Spanish)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE03.m3u8
+#EXTINF:-1, FOX SPORTS NEWS
+http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_ delivery@136427/index_1096_av-p.m3u8? sd=10&amp;rebase=on
+#EXTINF:-1, ESPN-Spanish
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8?
+#EXTINF:-1, ESPN 2- Spanish
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+#EXTINF:-1, ESPN 3- Spanish
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+#EXTINF:-1, Sports Center- ESPN (Spanish)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+#EXTINF:-1, NHL LIVE
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1, NBA LIVE
+http://bit.ly/21bzAxa
+#EXTINF:-1, Sky Sports 1
+rtmp://89.248.172.159:443/liverepeater playpath=24 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=24&width=530&height=370 token=#atd%#$ZH
+#EXTINF:-1, Sky Sports 1
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
+#EXTINF:-1, Sky Sports 2
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted
+
+#EXTINF:-1,NFL Network
+http://cp.dmbshare.net:8000/live/aaron/aaron/4589.ts
+#EXTINF:-1,Spike 
+http://cp.dmbshare.net:8000/live/aaron/aaron/4579.ts
+
+#EXTINF:-1,beinHD_Sports_HD1 
+http://37.187.24.177:80/65/65/699.ch 
+
+
+#EXTINF:-1,H2
+http://cp.dmbshare.net:8000/live/aaron/aaron/4572.ts
+#EXTINF:-1,USA: trutv
+http://cp.dmbshare.net:8000/live/aaron/aaron/4619.ts
+#EXTINF:-1, NBA
+http://cp.dmbshare.net:8000/live/aaron/aaron/4578.ts
+
+
+#EXTINF:-1, [COLOR yellow] ----------MOVIES---------------[/COLOR]
+
+
+
+#EXTINF:-1, FOX Movies HD- Spanish
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
+#EXTINF:-1, FOX Action- Spanish
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
+#EXTINF:-1, FOX Action- Cinemax- Spanish
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
+#EXTINF:-1, MOVIES CINEMA-2016
+http://127.0.0.1:9000/veetle/aHR0cDovLzM4LjEwMi4xNjIuMjQwOjgwL2Zsdi81NjA5NzkwNzk0MzIyL3Rlc3RhdDEyMw==
+#EXTINF:-1, MOVIES HD
+http://127.0.0.1:9000/veetle/aHR0cDovLzM4LjEwMi4xNjMuMjAxOjgwL2Zsdi81Njg2YjhjMzFiMmIyL3Rlc3RhdDEyMw==
+
+
+#EXTINF:-1, [COLOR yellow] ----------SPANISH---------------[/COLOR]
+
+
+
+
+#EXTINF:-1, UNIVISION-HD
+http://208.75.225.28:1935/live/univision101/chunklist.m3u8?DVR-CapoLiveBroadcast.ts
+
+#EXTINF:-1, TRUTV
+http://latino-webtv.ml/live/215_03.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
+#EXTINF:-1, TRUETV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
+#EXTINF:-1, HISTORY
+http://latino-webtv.ml/live/353_03.m3u8|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
+#EXTINF:-1, HISTORY
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u
+#EXTINF:-1, Nicaragua CH2
+rtmp://162.244.81.181:1935/live// playpath=Stream1 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://www.canal2.com.ni/streaming.html
+#EXTINF:-1, Lifetime
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
+#EXTINF:-1, Animal Planet
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
+#EXTINF:-1, A&E
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
+#EXTINF:-1, E!
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
+#EXTINF:-1, ID
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
+#EXTINF:-1, Canal de las Estrellas
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
+#EXTINF:-1, TNT MOVIES
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
+#EXTINF:-1, Disney Channel
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
+#EXTINF:-1, Disney JR
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE03.m3u8
+#EXTINF:-1 Comedy Central
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8?
+#EXTINF:-1, MTV HITS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
+#EXTINF:-1, MTV LIVE HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
+#EXTINF:-1, VH1 Classics
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
+#EXTINF:-1, DISCOVERY THEATHER
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
+#EXTINF:-1,NATGEO WILD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
+#EXTINF:-1,MTV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
+
